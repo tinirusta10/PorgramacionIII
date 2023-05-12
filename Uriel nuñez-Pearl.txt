@@ -1,0 +1,9 @@
+1)
+C# es un lenguaje fuertemente tipado, lo que significa que los tipos de datos son verificados por el compilador en tiempo de compilación. 
+
+Perl es un lenguaje débilmente tipado, lo que significa que los tipos de datos son determinados automáticamente en tiempo de ejecución
+
+2)
+Orientación a objetos: C# es un lenguaje que se enfoca en la programación orientada a objetos, y cuenta con una sintaxis muy clara y estructurada para definir clases, interfaces, métodos, propiedades, etc.
+
+Perl es un lenguaje que soporta la programación orientada a objetos, pero su sintaxis no es tan estructurada y puede ser un poco confusa para los programadores que están acostumbrados a trabajar con lenguajes orientados a objetos más tradicionales.
